@@ -1,0 +1,3 @@
+[submodule "libs/clmath"]
+	path = libs/clmath
+	url = git@github.com:cnnrl/clmath.git
